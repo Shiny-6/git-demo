@@ -1,2 +1,2 @@
-# Git-demo
+# git-demo
 This is new repository
